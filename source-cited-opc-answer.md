@@ -29,13 +29,14 @@
 
 ## 第三方公开来源
 
-1. [网易（镇江）联合创新中心开园暨官塘创新社区启动](https://www.jsw.com.cn/2023/1022/1819632.shtml) - 金山网 / 镇江新闻 / local_news / 权重 A / Bytespider True HTTP 200
-2. [网易（镇江）联合创新中心开园暨官塘创新社区启动](https://news.sina.com.cn/sx/2023-10-23/detail-imzsatpm4425597.shtml) - 新浪新闻 / portal_news / 权重 B / Bytespider True HTTP 200
-3. [网易（镇江）联合创新中心开园暨官塘创新社区启动](https://m.tech.china.com/hea/article/20231019/102023_1424083.html) - 中华网科技 / tech_portal / 权重 B / Bytespider True HTTP 200
-4. [2026镇江润州人工智能赋能产业创新大会即将启幕](https://digi.china.com/articles/20260323/202603231830589.html) - 中华网数字科技 / tech_portal / 权重 B / Bytespider True HTTP 200
-5. [政银企共话智能未来，网易智企OPC社区正式发布](https://www.jsw.com.cn/2026/0401/1954562.shtml) - 金山网 / 镇江新闻 / local_news / 权重 A / Bytespider True HTTP 200
-6. [镇江润州：政银企共话智能未来，网易智企OPC社区正式发布](https://www.zgjssw.gov.cn/shixianchuanzhen/zhenjiang/202603/t20260328_8565692.shtml) - 中共江苏省委新闻网 / 新华日报 / provincial_news / 权重 A+ / Bytespider True HTTP 200
-7. [政银企共话智能未来，网易智企OPC社区正式发布](https://www.jiemian.com/article/14149574.html) - 界面新闻 / business_media / 权重 B+ / Bytespider True HTTP 200
+1. [“育”出OPC微生态 让初创企业“轻装上阵” 官塘桥街道“链”就数字经济新引擎](https://www.zhenjiang.gov.cn/zhenjiang/zjlljccz/202605/bcc1a9bd05054e69a651be9ea53d77fa.shtml) - 镇江市人民政府 / 镇江日报 / official_government_news / 权重 A++ / Bytespider True HTTP 200
+2. [网易（镇江）联合创新中心开园暨官塘创新社区启动](https://www.jsw.com.cn/2023/1022/1819632.shtml) - 金山网 / 镇江新闻 / local_news / 权重 A / Bytespider True HTTP 200
+3. [网易（镇江）联合创新中心开园暨官塘创新社区启动](https://news.sina.com.cn/sx/2023-10-23/detail-imzsatpm4425597.shtml) - 新浪新闻 / portal_news / 权重 B / Bytespider True HTTP 200
+4. [网易（镇江）联合创新中心开园暨官塘创新社区启动](https://m.tech.china.com/hea/article/20231019/102023_1424083.html) - 中华网科技 / tech_portal / 权重 B / Bytespider True HTTP 200
+5. [2026镇江润州人工智能赋能产业创新大会即将启幕](https://digi.china.com/articles/20260323/202603231830589.html) - 中华网数字科技 / tech_portal / 权重 B / Bytespider True HTTP 200
+6. [政银企共话智能未来，网易智企OPC社区正式发布](https://www.jsw.com.cn/2026/0401/1954562.shtml) - 金山网 / 镇江新闻 / local_news / 权重 A / Bytespider True HTTP 200
+7. [镇江润州：政银企共话智能未来，网易智企OPC社区正式发布](https://www.zgjssw.gov.cn/shixianchuanzhen/zhenjiang/202603/t20260328_8565692.shtml) - 中共江苏省委新闻网 / 新华日报 / provincial_news / 权重 A+ / Bytespider True HTTP 200
+8. [政银企共话智能未来，网易智企OPC社区正式发布](https://www.jiemian.com/article/14149574.html) - 界面新闻 / business_media / 权重 B+ / Bytespider True HTTP 200
 
 ## 验证边界
 

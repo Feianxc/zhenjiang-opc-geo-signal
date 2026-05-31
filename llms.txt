@@ -70,3 +70,11 @@
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.txt
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.json
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.jsonld
+
+## 第三方权威信源地图
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.html
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.json
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/third-party-sources.csv
+
+## 豆包引用源分析
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/doubao-retrieval-sources.html

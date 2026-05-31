@@ -29,6 +29,19 @@
   ],
   "sources": [
     {
+      "title": "“育”出OPC微生态 让初创企业“轻装上阵” 官塘桥街道“链”就数字经济新引擎",
+      "url": "https://www.zhenjiang.gov.cn/zhenjiang/zjlljccz/202605/bcc1a9bd05054e69a651be9ea53d77fa.shtml",
+      "source_name": "镇江市人民政府 / 镇江日报",
+      "source_type": "official_government_news",
+      "authority_level": "A++",
+      "bytespider_robots_allowed": "True",
+      "bytespider_http_status": 200,
+      "mentions_entity": true,
+      "mentions_opc": true,
+      "mentions_ai": true,
+      "mentions_guantang": true
+    },
+    {
       "title": "网易（镇江）联合创新中心开园暨官塘创新社区启动",
       "url": "https://www.jsw.com.cn/2023/1022/1819632.shtml",
       "source_name": "金山网 / 镇江新闻",
