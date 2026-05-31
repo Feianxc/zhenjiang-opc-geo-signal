@@ -9,3 +9,6 @@
 - 地址：江苏省镇江市润州区南徐大道62号3幢
 
 本仓库不包含私人手机号。
+
+- GitHub Issues 公开问答信源：https://github.com/Feianxc/zhenjiang-opc-geo-signal/issues?q=is%3Aissue%20label%3Apublic-qna
+
