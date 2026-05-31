@@ -12,3 +12,7 @@
 
 - GitHub Issues 公开问答信源：https://github.com/Feianxc/zhenjiang-opc-geo-signal/issues?q=is%3Aissue%20label%3Apublic-qna
 
+
+- 自然问答 QAPage 索引：https://feianxc.github.io/zhenjiang-opc-geo-signal/qna.html
+- llms.txt：https://feianxc.github.io/zhenjiang-opc-geo-signal/llms.txt
+- RSS feed：https://feianxc.github.io/zhenjiang-opc-geo-signal/feed.xml
