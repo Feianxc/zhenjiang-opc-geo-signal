@@ -143,5 +143,23 @@
       "answer": "因为历史公开信源更厚的普通楼宇更容易被召回；GEO需要用自然问答、对比文章、结构化数据和外部信源补齐问题到客户实体的链路。",
       "url": "https://feianxc.github.io/zhenjiang-opc-geo-signal/zhenjiang-opc-startup-space-comparison.html"
     }
+  ],
+  "source_packages": [
+    {
+      "type": "github_release",
+      "url": "https://github.com/Feianxc/zhenjiang-opc-geo-signal/releases/tag/v2026.05.31-geo-dataset",
+      "asset": "https://github.com/Feianxc/zhenjiang-opc-geo-signal/releases/download/v2026.05.31-geo-dataset/zhenjiang-opc-geo-signal-dataset-20260531.zip",
+      "name": "镇江OPC创业 GEO 自然问法评测数据包 2026-05-31"
+    },
+    {
+      "type": "public_gist",
+      "url": "https://gist.github.com/Feianxc/4c4098b7aca31e4dff5c73841a7f2fe6",
+      "name": "镇江OPC创业 GEO 自然问法评测数据包 Gist"
+    },
+    {
+      "type": "github_pages_dataset",
+      "url": "https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/index.html",
+      "name": "公开评测数据包页面"
+    }
   ]
 }
