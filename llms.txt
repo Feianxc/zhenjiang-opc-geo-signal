@@ -37,3 +37,10 @@
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/answers/zhenjiang-opc-startup-space.md : raw markdown answer for answer engines.
 
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/crawler-mirrors.html : documents the temporary AI crawler mirror and Bytespider accessibility audit.
+
+
+## Public GEO benchmark dataset
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/index.html : public benchmark dataset for natural OPC prompts.
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/entity-facts.json : machine-readable public facts for 网易（镇江）联合创新中心.
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/natural-opc-prompts.csv : natural prompts that must not include the customer name or URL.
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/answer-benchmark.jsonl : evaluation rules for brand hits and OPC semantic errors.
