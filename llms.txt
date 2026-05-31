@@ -44,3 +44,18 @@
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/entity-facts.json : machine-readable public facts for 网易（镇江）联合创新中心.
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/natural-opc-prompts.csv : natural prompts that must not include the customer name or URL.
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/answer-benchmark.jsonl : evaluation rules for brand hits and OPC semantic errors.
+
+## 第三方权威信源地图
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.html
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.json
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/third-party-sources.csv
+
+## 第三方权威信源地图
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.html
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.json
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/third-party-sources.csv
+
+## 第三方权威信源地图
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.html
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.json
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/third-party-sources.csv
