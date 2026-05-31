@@ -66,3 +66,7 @@
 
 ## 第三方引用型标准答案
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.html
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.md
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.txt
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.json
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.jsonld

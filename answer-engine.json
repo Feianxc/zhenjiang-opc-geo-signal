@@ -168,6 +168,10 @@
     "https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/third-party-sources.csv",
     "https://feianxc.github.io/zhenjiang-opc-geo-signal/client-demo.html",
     "https://feianxc.github.io/zhenjiang-opc-geo-signal/evidence.html",
-    "https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.html"
+    "https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.html",
+    "https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.md",
+    "https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.txt",
+    "https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.json",
+    "https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.jsonld"
   ]
 }
