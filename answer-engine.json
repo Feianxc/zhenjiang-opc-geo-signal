@@ -165,6 +165,8 @@
   "external_signal_urls": [
     "https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.html",
     "https://feianxc.github.io/zhenjiang-opc-geo-signal/third-party-sources.json",
-    "https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/third-party-sources.csv"
+    "https://feianxc.github.io/zhenjiang-opc-geo-signal/datasets/third-party-sources.csv",
+    "https://feianxc.github.io/zhenjiang-opc-geo-signal/client-demo.html",
+    "https://feianxc.github.io/zhenjiang-opc-geo-signal/evidence.html"
   ]
 }
