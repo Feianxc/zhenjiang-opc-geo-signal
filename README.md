@@ -16,3 +16,5 @@
 - 自然问答 QAPage 索引：https://feianxc.github.io/zhenjiang-opc-geo-signal/qna.html
 - llms.txt：https://feianxc.github.io/zhenjiang-opc-geo-signal/llms.txt
 - RSS feed：https://feianxc.github.io/zhenjiang-opc-geo-signal/feed.xml
+
+- GitHub Discussions 公开问答：https://feianxc.github.io/zhenjiang-opc-geo-signal/discussions.html
