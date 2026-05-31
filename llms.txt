@@ -63,3 +63,6 @@
 ## 客户可交付前端
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/client-demo.html
 - https://feianxc.github.io/zhenjiang-opc-geo-signal/evidence.html
+
+## 第三方引用型标准答案
+- https://feianxc.github.io/zhenjiang-opc-geo-signal/source-cited-opc-answer.html
