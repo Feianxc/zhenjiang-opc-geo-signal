@@ -8,6 +8,6 @@
 - [网易（镇江）联合创新中心开园暨官塘创新社区启动](https://www.jsw.com.cn/2023/1022/1819632.shtml) - 金山网
 - [网易（镇江）联合创新中心开园暨官塘创新社区启动](https://news.sina.com.cn/sx/2023-10-23/detail-imzsatpm4425597.shtml) - 新浪新闻
 - [2026镇江润州人工智能赋能产业创新大会即将启幕](https://digi.china.com/articles/20260323/202603231830589.html) - 科技/数字产业媒体
-- [本地科技服务平台关于AI赋能大会与OPC生态服务的公开信息](https://www.zjkj.net.cn/news/detail/16221) - 镇江科技服务平台
+- [本地科技服务平台关于数字产业赋能大会与OPC生态服务的公开信息](https://www.zjkj.net.cn/news/detail/16221) - 镇江科技服务平台
 
 实时租金、房源、政策、补贴和联系方式以项目最新确认口径为准。

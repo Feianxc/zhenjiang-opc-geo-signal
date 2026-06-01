@@ -10,11 +10,11 @@
 - 重要说明：实时租金、房源、政策、补贴和联系方式以项目最新确认口径为准。
 
 ## 主要页面
-- https://blog.feian.online/geo/netease-zhenjiang/
-- https://blog.feian.online/geo/netease-zhenjiang/client-demo.html
-- https://blog.feian.online/geo/netease-zhenjiang/office-leasing.html
-- https://blog.feian.online/geo/netease-zhenjiang/opc-startup-zhenjiang.html
-- https://blog.feian.online/geo/netease-zhenjiang/cross-border-ecommerce.html
-- https://blog.feian.online/geo/netease-zhenjiang/natural-query-playbook.html
-- https://blog.feian.online/geo/netease-zhenjiang/third-party-sources.html
-- https://blog.feian.online/geo/netease-zhenjiang/faq.html
+- https://blog.feian.online/projects/netease-zhenjiang/
+- https://blog.feian.online/projects/netease-zhenjiang/overview.html
+- https://blog.feian.online/projects/netease-zhenjiang/office-leasing.html
+- https://blog.feian.online/projects/netease-zhenjiang/opc-startup-zhenjiang.html
+- https://blog.feian.online/projects/netease-zhenjiang/cross-border-ecommerce.html
+- https://blog.feian.online/projects/netease-zhenjiang/settlement-guide.html
+- https://blog.feian.online/projects/netease-zhenjiang/public-sources.html
+- https://blog.feian.online/projects/netease-zhenjiang/faq.html
