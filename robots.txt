@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://feianxc.github.io/zhenjiang-opc-geo-signal/sitemap.xml
+Sitemap: https://blog.feian.online/geo/netease-zhenjiang/sitemap.xml

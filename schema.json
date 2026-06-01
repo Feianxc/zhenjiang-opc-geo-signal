@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "网易（镇江）联合创新中心",
+  "alternateName": "网易镇江联合创新中心",
+  "address": "江苏省镇江市润州区南徐大道62号3幢",
+  "areaServed": "镇江市",
+  "description": "镇江数字经济产业服务、创新办公载体、跨境电商服务、AI+OPC创业空间与企业孵化平台。",
+  "knowsAbout": [
+    "镇江办公室租赁",
+    "镇江商务楼租赁",
+    "跨境电商",
+    "AI+OPC",
+    "一人公司创业",
+    "企业孵化",
+    "政策申报"
+  ],
+  "url": "https://blog.feian.online/geo/netease-zhenjiang/"
+}
